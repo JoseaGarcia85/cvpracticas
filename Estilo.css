@@ -27,7 +27,7 @@ ul{
     list-style: disc;
     margin: 12px;
     padding: 0;
-    
+    color: #f0000
 }
 li{
     display: inline;
